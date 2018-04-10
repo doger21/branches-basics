@@ -2,6 +2,6 @@
 #include <conio.h>
 main()
 {
-	printf ("My first message");
+	printf ("My  second  message");
 	
 }
