@@ -2,6 +2,6 @@
 #include <conio.h>
 main()
 {
-	printf( "Zahar, thank you.");
+	printf( " I changed this message");
 
 }
